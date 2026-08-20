@@ -71,6 +71,6 @@ Standards and tolerance data used during design:
 
 ![screenshot](./IMG_8353.JPG)
 
-![screenshot](./IMG_8339.heic)
+![screenshot](./IMG_8339.jpg)
 
 ---
