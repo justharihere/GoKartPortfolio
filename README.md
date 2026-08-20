@@ -10,8 +10,7 @@ A single-seat electric go-kart, built from a salvaged e-bike drivetrain and a fu
 
 **[→ Open the interactive CAD model (Autodesk Fusion, read-only)](https://gmail5378598.autodesk360.com/g/shares/SH28cd1QT2badd0ea72bc91f904d955a8b5e?mode=embed)**
 
-![CAD model screenshot](./media/cad-screenshot.png)
-*Placeholder — replace `media/cad-screenshot.png` with your static render.*
+![CAD model screenshot](./Picture.png)
 
 ---
 
