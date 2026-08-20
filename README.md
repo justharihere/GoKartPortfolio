@@ -69,6 +69,8 @@ Standards and tolerance data used during design:
 
 ## Media
 
-*(To be added — build photos and a short driving clip)*
+![screenshot](./IMG_8353.JPG)
+
+![screenshot](./IMG_8339.mov)
 
 ---
